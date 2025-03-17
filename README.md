@@ -1,6 +1,6 @@
 # amigo-secreto
 
-![portada amigo secreto](https://imgur.com/a/UWJ9BRz)
+![portada amigo secreto](https://imgur.com/DmUIo1o)
 
 ## :pushpin: Descripción
 
@@ -20,7 +20,7 @@ Esta aplicación permite a los usuarios ingresar los nombres de sus amigos para 
 
 ## :file_folder: Acceso al proyecto
 
-**Si deseas descargar el código y ejecutarlo en tu computadora, sigue estos pasos:
+**Si deseas descargar el código y ejecutarlo en tu computadora, sigue estos pasos:**
 
 1. Clona el repositorio usando el siguiente comando:
    ```bash
@@ -28,7 +28,7 @@ Esta aplicación permite a los usuarios ingresar los nombres de sus amigos para 
 2. Ingresa al directorio del proyecto:
 cd amigo-secreto
 3. Abre el archivo index.html en tu navegador.
-**
+
 
 ## 🛠️ Abre y ejecuta el proyecto
 
@@ -38,5 +38,4 @@ cd amigo-secreto
 
 ## :bust_in_silhouette: Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/133136405?s=400&v=4" width=115><br><sub>Camila Passini</sub>](https://github.com/camipass)|
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/133136405?s=400&u=c5aee6b88cc718db15c81f0df055cf1445cc5f74&v=4" width=115><br><sub>Camila Passini</sub>](https://github.com/camipass)|
