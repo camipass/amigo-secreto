@@ -1,6 +1,6 @@
 # amigo-secreto
 
-![portada amigo secreto](https://imgur.com/a/portada-UWJ9BRz)
+![portada amigo secreto](https://i.imgur.com/DmUIo1o.png)
 
 ## :pushpin: Descripción
 
